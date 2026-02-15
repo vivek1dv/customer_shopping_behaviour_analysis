@@ -17,7 +17,7 @@ Insights and recommendations are provided on the following key areas:
 - **Subscription & Loyalty Dynamics:** Evaluating the ROI of our subscription model and repeat-purchase behavior.
 - **Promotional & Logistics Impact:** Assessing how discounts and shipping preferences influence final checkout amounts.
 
-The Python scripts used to inspect and clean the data for this analysis can be found here: [data_cleaning_python](https://github.com/vivek1dv/vivek1dv-customer_shopping_behaviour_analysis/blob/main/customer_shopping_behaviour.ipynb)
+The Python scripts used to inspect and clean the data for this analysis.
 
 Targeted SQL queries regarding various business questions can be found here: [sql_analysis_queries](https://github.com/vivek1dv/vivek1dv-customer_shopping_behaviour_analysis/blob/main/customer_shopping_behaviour_sql.sql)
 
@@ -31,7 +31,7 @@ The company's primary analytical dataset consists of a unified transactional tab
 
 
 
-![alt text](https://github.com/vivek1dv/vivek1dv-customer_shopping_behaviour_analysis/blob/main/columns_name.png)
+![alt text](https://github.com/vivek1dv/customer_shopping_behaviour_analysis/blob/main/columns_name.png)
 
 
 # Executive Summary
@@ -47,7 +47,7 @@ Our analysis reveals a robust retail ecosystem driven heavily by the Male demogr
 * **The "Senior" Segment Opportunity.** Despite common retail assumptions, the "Senior" group (60+) remains highly active, contributing over **$55,763**, nearly matching the "Adult" (46-60) segment.
 * **Geographic Outliers.** Sales are distributed across 50 states, but specific locations show higher average spends regardless of volume, indicating localized premium preferences that should be targeted for specialized marketing.
 
-![alt text](https://github.com/vivek1dv/vivek1dv-customer_shopping_behaviour_analysis/blob/main/overview_finding.png)
+![alt text](https://github.com/vivek1dv/customer_shopping_behaviour_analysis/blob/main/overview_finding.png)
 
 
 ### Product & Seasonal Trends
@@ -56,7 +56,7 @@ Our analysis reveals a robust retail ecosystem driven heavily by the Male demogr
 * **Seasonality of Purchase.** Spring and Fall show the highest transaction volumes, suggesting that our "New Collection" launches are well-timed with consumer appetite.
 * **Review Ratings Stability.** Product satisfaction is consistent across categories (avg 3.7-3.8), indicating that our product quality meets market expectations.
 
-![alt text](https://github.com/vivek1dv/vivek1dv-customer_shopping_behaviour_analysis/blob/main/clothing_revenue_share_dashboard.png)
+![alt text](https://github.com/vivek1dv/customer_shopping_behaviour_analysis/blob/main/clothing_revenue_share_dashboard.png)
 
 ### Subscription & Loyalty Dynamics
 * **Subscription Gap.** Only **27%** of our customers are currently subscribed. However, subscribers show a more consistent purchase frequency than non-subscribers.
