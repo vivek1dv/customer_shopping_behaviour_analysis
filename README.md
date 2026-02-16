@@ -19,9 +19,10 @@ Insights and recommendations are provided on the following key areas:
 
 The Python scripts used to inspect and clean the data for this analysis.
 
-Targeted SQL queries regarding various business questions can be found here: [sql_analysis_queries](https://github.com/vivek1dv/vivek1dv-customer_shopping_behaviour_analysis/blob/main/customer_shopping_behaviour_sql.sql)
+Targeted SQL queries regarding various business questions can be found here: [sql_analysis_queries](https://github.com/vivek1dv/customer_shopping_behaviour_analysis/blob/main/customer_shopping_behaviour_sql.sql)
 
-An interactive Power BI dashboard used to report and explore sales trends can be found here: [Power_bi_dashboard](https://github.com/vivek1dv/vivek1dv-customer_shopping_behaviour_analysis/blob/main/customer_shopping_behaviour_dashboard_bi.pbix)
+An interactive Power BI dashboard used to report and explore sales trends can be found here: [Power_bi_dashboard](
+https://github.com/vivek1dv/customer_shopping_behaviour_analysis/blob/main/customer_shopping_behaviour_dashboard_bi.pbix)
 
 # Data Structure & Initial Checks
 The company's primary analytical dataset consists of a unified transactional table with a total row count of 3,900+ records.
